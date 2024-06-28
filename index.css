@@ -109,3 +109,38 @@ body * {
 .sousmenu li:active {
     background-color: #c9c7c7;
 }
+
+/*sousmenu-item*/
+
+.sousmenu-item a {
+    display: flex;
+    align-items: center;
+}
+
+.sousmenu-item img {
+    padding-right: 5px;
+}
+
+/*photos*/
+
+#ytb {
+    width: 23px;
+    height: auto;
+}
+
+#logox {
+    width: 18px;
+    height: auto;
+    padding-left: 3px;
+}
+
+#logotiktok {
+    width: 20px;
+    height: auto;
+    padding-left: 2px;
+}
+
+#logoinsta {
+    width: 23px;
+    height: auto;
+}
