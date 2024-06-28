@@ -93,3 +93,7 @@ body * {
     margin-left: -10px;
     padding-top: 28px;
 }
+
+.sousmenu li:active {
+    background-color: #c9c7c7;
+}
